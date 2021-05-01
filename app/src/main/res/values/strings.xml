@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PokemonProject</string>
+    <string name="title_activity_search_navigation">MainActivity</string>
+    <string name="title_home">Buscar por id</string>
+    <string name="title_dashboard">Buscar por nombre</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="id_title">Buscar Pokemon por id</string>
+    <string name="name_title">Buscar Pokemon por nombre</string>
+    <string name="id_label">Id del Pokemon</string>
+    <string name="name_label">Nombre del Pokemon</string>
+    <string name="search">Buscar</string>
+    <string name="main_title">Bienvenidos</string>
+    <string name="main_subtitle">Toda la información de Pokemon en un solo lugar</string>
+    <string name="main_button">Iniciar</string>
+</resources>
